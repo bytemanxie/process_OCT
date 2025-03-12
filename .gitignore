@@ -12,6 +12,9 @@
 /enhanced_images/
 /concatenated/
 /concatenated_enhanced/
+/dataset/
+/20250220/
+
 
 # OS generated files
 .DS_Store
